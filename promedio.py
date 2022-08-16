@@ -1,0 +1,1 @@
+nota_1 = input("inserte nota")
