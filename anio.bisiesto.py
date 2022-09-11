@@ -4,7 +4,7 @@ def verificar_anio(anio):
     else:
         print('No es bisiesto')
 
-verificar_anio(1700)
-verificar_anio(1800)
-verificar_anio(1600)
-verificar_anio(2400)
+verificar_anio(2012)
+verificar_anio(2010)
+verificar_anio(2000)
+verificar_anio(1900)
